@@ -23,9 +23,6 @@ My dream is to create an application that earns recognition from both users and 
 
 I'm on the lookout for mentors and peers to join me on this journey. I'm open to opportunities for mutual growth.
 
-<a href="https://velog.io/@dylee95"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=black&link=https://velog.io/@dylee95"/>&nbsp</a> 
-<a href="https://github.com/daylee619?tab=repositories"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/daylee619?tab=repositories"/>&nbsp</a>
-<a href="daylee619@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=daylee619@gmail.com"/></a>
 </div>
 
 <div align=center><h1>📚 STACKS</h1></div>
