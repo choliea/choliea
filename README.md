@@ -60,3 +60,7 @@ I'm on the lookout for mentors and peers to join me on this journey. I'm open to
 <div align=center><h1>🏫 Education</h1>
 - ITWILL JAVA DEVELOPER COURSE (23.05. ~ 23.11.)
 </div>
+
+<div align=center><h1>🪪 Certification</h1>
+- 정보처리기 (23.06.09.)
+</div>
