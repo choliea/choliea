@@ -56,3 +56,6 @@ I'm on the lookout for mentors and peers to join me on this journey. I'm open to
   <br>
 
 </div>
+
+<div align=center><h1>🏫 Education</h1></div>
+- ITWILL JAVA DEVELOPER COURSE (23.05. ~ 23.11.)
