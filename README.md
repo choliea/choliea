@@ -11,19 +11,6 @@
 제가 만든 애플리케이션이 사용자와 개발자 모두에게 인정받고, 서비스와 회사가 함께 성장하는 것이 제 꿈입니다. 
 현재는 ITWILL에서 배운 기술을 기반으로 한 마지막 프로젝트에 몰두하고 있으며, 높은 품질의 코드와 사용자 경험을 위해 노력하고 있습니다.
 
-
-## Hello there! 👋
-
-I'm Choi YuKang, a passionate learner and developer currently focusing on backend development while also exploring frontend technologies. 
-2023.05.~2023.11. attending ITWILL, where I delving into various aspects of software development.
-
-I find joy in embracing new technologies and aspire to become a well-rounded developer with deep and extensive knowledge.
-On my [blog](https://youarethebestcoding.tistory.com/), I share my learning journey, even though I might consider my writing skills a work in progress.
-
-My dream is to create an application that earns recognition from both users and fellow developers, contributing to the growth of both the service and the company. Currently, I'm immersed in the Final Project based on what I've learned at ITWILL, striving for high-quality code and an exceptional user experience.
-
-I'm on the lookout for mentors and peers to join me on this journey. I'm open to opportunities for mutual growth.
-
 </div>
 
 <div align=center><h1>📚 STACKS</h1></div>
