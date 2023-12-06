@@ -11,7 +11,7 @@
 제가 만든 애플리케이션이 사용자와 개발자 모두에게 인정받고, 서비스와 회사가 함께 성장하는 것이 제 꿈입니다. 
 현재는 ITWILL에서 배운 기술을 기반으로 한 마지막 프로젝트에 몰두하고 있으며, 높은 품질의 코드와 사용자 경험을 위해 노력하고 있습니다.
 
-<a href="https://cyk-porttfolio.netlify.app/">Portfolio</a>
+<a href="https://cyk-portfolio.netlify.app/">Portfolio</a>
 
 
 </div>
