@@ -4,9 +4,15 @@
 
 **정상 작동 여부는 확인되지 않았습니다.**
 
-<img src="assets/boot.svg" alt="아무튼 실행 중: 오래된 컴퓨터가 부팅되는 픽셀풍 애니메이션" width="760" />
+<img src="assets/boot.svg" alt="목적을 찾지 못했지만 계속 부팅하는 시스템" width="760" />
+
+<img src="assets/desktop.svg" alt="픽셀 아트 운영체제: 새 아이디어가 떠오르고 오류창이 뜨지만 아무튼 실행 중" width="760" />
 
 <sub>개인용 시스템 · 사용자 1명 · 사용 설명서 분실</sub>
+
+**[🚪 방_01.exe 실행하기 — 픽셀 방탈출](https://YOUR_USERNAME.github.io/YOUR_USERNAME/game/)**
+
+<sub>※ GitHub Pages 배포 후 YOUR_USERNAME을 사용자명으로 변경하세요.</sub>
 
 </div>
 
@@ -24,6 +30,20 @@
 ```
 
 > 시스템은 정상적으로 시작되었습니다. 무엇을 시작했는지는 확인 중입니다.
+
+<details>
+<summary>🖱️ <b>바탕화면의 수상한 바로가기</b></summary>
+
+```text
+바로가기 이름: 이것만_하고_잘게.lnk
+대상: 알 수 없음
+마지막 실행: 어제
+마지막 종료: 기록 없음
+```
+
+> [힌트] 종료 기록이 없다고 해서 아직 하고 있다는 뜻은 아닙니다. 아마도.
+
+</details>
 
 ### 📁 내 컴퓨터
 
